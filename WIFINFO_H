@@ -1,0 +1,11 @@
+#ifndef WIFINFO_H
+#define WIFINFO_H
+
+#define WIFI_SSID "SSID"
+#define WIFI_PASSWORD "WifiPassword"
+#define STATIC_IP_YN FALSE
+#define STATIC_IP "192.168.0.14"
+#define GATEWAY "192.168.0.1"
+#define SUBNET "255.255.255.0"
+
+#endif // WIFINFO_H
